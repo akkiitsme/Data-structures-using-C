@@ -3,7 +3,6 @@ void getarr(int[2][2]);
 void putarr(int[2][2]);
 int main(){
 	int a[2][2],b[2][2],c[2][2];
-	int r1,r2,c1,c2;
 	int p1,p2,p3,p4,p5,p6,p7;
 	printf("Enter 2x2 first matrix\n");
 	getarr(a);
